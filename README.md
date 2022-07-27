@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shanel199
 - 👀 I’m interested in Electronics,Ethical Hacking,Coding.
-- 🌱 I’m currently learning BCA (MOBILE APPLICATION AND CLOUD COMPUTING)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Graduate BCA (MOBILE APPLICATION AND CLOUD COMPUTING)
 - 📫 How to reach me -shanalfrancin@gmail.com
+- //💞️ I’m looking to collaborate on ...
 
 <!---
 shanel199/shanel199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
