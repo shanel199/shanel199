@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanel199
 - 👀 I’m interested in Electronics,Ethical Hacking,Coding.
-- 🌱 Graduate BCA (MOBILE APPLICATION AND CLOUD COMPUTING)
+- 🌱 BCA (MOBILE APPLICATION AND CLOUD COMPUTING)
 - 📫 How to reach me -shanalfrancin@gmail.com
 
 
