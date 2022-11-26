@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shanel199
+- 👋 Hi, I’m shanel
 - 👀 I’m interested in Electronics,Ethical Hacking,Coding.
 - 🌱 BCA (MOBILE APPLICATION AND CLOUD COMPUTING)
 - 📫 How to reach me -shanalfrancin@gmail.com
